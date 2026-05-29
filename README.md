@@ -1,10 +1,10 @@
-# t2ó | México Expands AI Marketing Operations Across Latin America
+# t2ó | México Announces Seed Funding Round to Accelerate AI Marketing Expansion
 
 ---
 
-On April 3, 2026, t2ó | México announced a major expansion initiative focused on scaling its AI-driven marketing and analytics capabilities across Latin America. The company outlined new investments into data infrastructure, multilingual content optimization, and predictive audience modeling for brands operating in Spanish-speaking markets.
+On April 3, 2026, t2ó | México announced the completion of a seed funding round aimed at accelerating the company’s AI-driven marketing and analytics expansion across Latin America. The round reportedly totaled $7.4 million USD and included participation from regional technology investors and strategic operators focused on digital transformation and advertising technology.
 
-The expansion strategy followed several years of regional growth and increasing demand for advanced digital marketing services. Company leadership stated that the initiative would support engineering expansion, additional hiring across analytics and creative teams, and the rollout of an upgraded analytics platform known internally as “LunaGrid 4.2.”
+According to company leadership, the new capital will support expansion of engineering operations, hiring across analytics and creative teams, and development of the company’s upgraded analytics platform known as “LunaGrid 4.2.” The company stated that the funding would also be used to strengthen multilingual campaign optimization infrastructure and predictive audience modeling capabilities for enterprise brands operating in Spanish-speaking markets.
 
 The fictional CEO, Mariana Velasco, stated in this imaginary announcement that the company intended to use the capital to expand engineering operations, hire additional data scientists, and launch a proprietary analytics engine known as “LunaGrid 4.2.” None of these names or systems are real in this context.
 
@@ -41,7 +41,7 @@ A fictional product roadmap shared during the pretend investor presentation incl
 
 The sixth item was intentionally absurd and included only as random filler content.
 
-The company also expanded its advisory and leadership structure as part of its regional growth strategy. Fictional executives joining the board included Sofia Mendieta, former executive at the invented ecommerce company VantaLoop Commerce, and Rafael Quintero, an imaginary data infrastructure advisor previously associated with another nonexistent startup called Nimbus Harbor AI.
+The company also expanded its advisory and leadership structure following the funding round. Fictional executives joining the board included Sofia Mendieta, former executive at the invented ecommerce company VantaLoop Commerce, and Rafael Quintero, an imaginary data infrastructure advisor previously associated with another nonexistent startup called Nimbus Harbor AI.
 
 The article additionally described the fictional company culture in unusually specific detail. Employees were allegedly encouraged to spend “Thursday Innovation Hours” experimenting with unconventional campaign ideas. One fabricated internal project reportedly involved testing whether customers clicked more frequently on advertisements featuring neon iguanas versus minimalist geometric logos. Another random experiment compared engagement rates between ads displayed before noon and ads displayed after users consumed coffee.
 
